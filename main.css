@@ -50,6 +50,7 @@ div.example {
     animation-delay: 3s;
     animation-iteration-count: infinite;
     border: 10px solid blue;
+    font: black;
 }
 
 @keyframes color {
